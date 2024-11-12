@@ -24,7 +24,7 @@ public class ket_lulus {
         }
     }
     public static void main(String[] args) {
-        ket_lulus mahasiswa = new ket_lulus("Watashi", 80);
+        ket_lulus mahasiswa = new ket_lulus("Salma Erza", 80);
         String keterangan = mahasiswa.kelulusan();
         System.out.println("Nama= " + mahasiswa.nama);
         System.out.println("Nilai= " + mahasiswa.nilai);
